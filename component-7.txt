@@ -1,0 +1,2 @@
+
+Also, update your `tsconfig.json` to include path aliases (add the `baseUrl` and `paths` inside `compilerOptions`):

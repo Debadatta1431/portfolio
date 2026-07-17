@@ -1,0 +1,4 @@
+
+### 3. Initialize Tailwind CSS
+
+Generate the Tailwind configuration files:

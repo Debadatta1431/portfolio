@@ -1,0 +1,8 @@
+
+## Installation & Setup Guide
+
+Follow these steps carefully to set up the project locally without any errors.
+
+### 1. Create the Project
+
+Open your terminal and create a new Vite React TypeScript project:

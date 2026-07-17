@@ -1,0 +1,2 @@
+
+Replace the contents of `src/index.css` with:

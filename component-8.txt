@@ -1,0 +1,4 @@
+
+### 5. Create the Utils File
+
+Create a file at `src/lib/utils.ts` and add the following code (this is required by shadcn/ui components):

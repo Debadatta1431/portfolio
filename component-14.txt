@@ -1,0 +1,2 @@
+
+The built files will be in the `dist/` folder. You can preview the production build locally with:

@@ -1,0 +1,2 @@
+
+Replace the contents of `tailwind.config.js` with:

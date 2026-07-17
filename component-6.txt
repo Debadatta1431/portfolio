@@ -1,0 +1,4 @@
+
+### 4. Configure Path Aliases
+
+To make imports like `@/components/...` work without errors, update your `vite.config.ts` file:

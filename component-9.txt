@@ -1,0 +1,4 @@
+
+### 6. Add shadcn/ui Components
+
+Initialize shadcn/ui (accept the default prompts, choose "Default" style, and "src/" for aliases):

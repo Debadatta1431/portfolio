@@ -1,0 +1,12 @@
+
+### 7. Add the Portfolio Code
+
+Create the following files and paste the respective code from the generated application:
+
+- `src/App.tsx` — Main application entry point
+- `src/components/Hero.tsx` — Hero header section
+- `src/components/SectionHeading.tsx` — Reusable section heading
+- `src/components/Education.tsx` — Education timeline cards
+- `src/components/Contact.tsx` — Contact information section
+
+Make sure the folder structure looks like this:
