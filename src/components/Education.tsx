@@ -23,7 +23,7 @@ const items = [
     period: "Completed",
     status: "Completed",
     description:
-      "Studied Physics, Chemistry, Mathematics and Computer Science — the stepping stone into engineering.",
+      "Studied Physics, Chemistry, Mathematics, Biology and Computer Science — the stepping stone into engineering.",
   },
   {
     icon: BookOpen,

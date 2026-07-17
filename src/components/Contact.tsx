@@ -34,8 +34,8 @@ export function Contact() {
     },
     {
       icon: MapPin,
-      label: "University",
-      value: "Biju Patnaik University of Technology, Odisha",
+      label: "Location",
+      value: "At-Kanheibank,Po-Khirkona, Blo-Simulia, Dist-Odisha, India",
       href: null,
     },
   ];
