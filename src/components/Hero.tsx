@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { GraduationCap, Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
-// Use a public static asset at /avatar.jpg for deployments
+import avatarSrc from "../avatar.jpg";
 
 export function Hero() {
   const [imgError, setImgError] = useState(false);
@@ -50,7 +50,7 @@ export function Hero() {
           <div className="flex shrink-0 items-center gap-5 rounded-2xl bg-white/10 p-5 ring-1 ring-inset ring-white/20 backdrop-blur-sm">
             {!imgError ? (
               <img
-                src="/avatar.jpg"
+                src={avatarSrc}
                 alt="Debadatta"
                 onError={() => setImgError(true)}
                 className="h-20 w-20 rounded-2xl object-cover shadow-lg"
