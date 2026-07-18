@@ -45,9 +45,11 @@ export function Hero() {
 
           {/* avatar / monogram card */}
           <div className="flex shrink-0 items-center gap-5 rounded-2xl bg-white/10 p-5 ring-1 ring-inset ring-white/20 backdrop-blur-sm">
-            <div className="flex h-20 w-20 items-center justify-center rounded-2xl bg-white text-3xl font-bold text-emerald-700 shadow-lg">
-              D
-            </div>
+            <img
+              src="/avatar.jpg"
+              alt="Debadatta"
+              className="h-20 w-20 rounded-2xl object-cover shadow-lg"
+            />
             <div className="space-y-1 text-sm">
               <p className="flex items-center gap-2 text-emerald-50/90">
                 <GraduationCap className="h-4 w-4" /> B.Tech CSE
