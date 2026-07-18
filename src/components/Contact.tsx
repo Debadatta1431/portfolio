@@ -31,11 +31,12 @@ export function Contact() {
       label: "Phone",
       value: "8339931722",
       href: "tel:8339931722",
-    },
+    },      
+
     {
       icon: MapPin,
       label: "Location",
-      value: "At-Kanheibank,Po-Khirkona, Blo-Simulia, Dist-Odisha, India",
+      value: "At-Kanheibank,Po-Khirkona , Blo-Simulia, Dist-Odisha, India",
       href: null,
     },
   ];
