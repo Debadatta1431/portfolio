@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tsc && npx vite build",
-    "preview": "npx vite preview"
+    "build": "tsc && node ./node_modules/vite/bin/vite.js build",
+    "preview": "node ./node_modules/vite/bin/vite.js preview"
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.3.0",
