@@ -36,7 +36,7 @@ export function Contact() {
     {
       icon: MapPin,
       label: "Location",
-      value: "At-Kanheibank,Po-Khirkona , Blo-Simulia, Dist-Odisha, India",
+      value: "At-Kanheibank,Po-Khirkona , Blo-Simulia, Dist-Baleswar, Odisha, India",
       href: null,
     },
   ];
